@@ -5,9 +5,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mathis-rapaccioli-92b7a7264/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
   <a href="discordapp.com/users/277366981424840704" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
