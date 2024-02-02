@@ -34,17 +34,41 @@
 
 ###
 
-<p align="center">Fluent in french and english if needed</p>
+<p align="center">Fluent in french and english</p>
+<br>
 
+###
+
+<h3 align="center">🫖  Freelance</h3>
+
+###
+
+<p align="center">i also work as a web application <a href="https://mathis.website">freelance ✉️</a><br><br>
+ <br>- For the front-end my prefered frameworks are nuxt and svelte kit<br>- And for the back-end i mainly use pockerBase and supaBase</p>
 
 <br>
 
 <div align="center">
-  <h3 align="center">🎶 Vibing to</h3>
-  <br>
-  <a href="#" algin="center">
-    <img src="https://spotify-readme-ten-gray.vercel.app/api?&rainbow=true" alt="Current Spotify Song">
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+</div>
+
+###
+
+<br>
   <p align="center">ur average vim user btw</p>
 </div>
 
