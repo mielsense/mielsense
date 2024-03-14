@@ -44,7 +44,7 @@
 ###
 
 <p align="center">i also work as a web application <a href="https://mathis.website">freelance ✉️</a><br><br>
- <br>- For the front-end my prefered frameworks are nuxt and svelte kit<br>- And for the back-end i mainly use pockerBase and supaBase</p>
+ <br>- For the front-end my prefered frameworks are sveltekit and nuxt<br>- And for the back-end i mainly use pocketbase/supabase or firebase</p>
 
 <br>
 
