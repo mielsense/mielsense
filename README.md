@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">I'm a second year student at @Epitech in Lyon !<br><br>- 🫖 I’m currently working on <a href="https://github.com/villeurbanne/kettle">Kettle 🐈</a>
+<p align="center">I'm a third year student at @Epitech in Lyon !<br><br>- 🫖 I’m currently working on <a href="https://github.com/villeurbanne/kettle">Kettle 🐈</a>
  <br>- 📚 I'm currently learning Rust<br>- 📻 In my free time I listen to music</p>
 
 ###
