@@ -73,8 +73,4 @@
   <p align="center">ur average vim user btw</p>
 </div>
 
-<div align="center">
-    <img src="https://i.ibb.co/Fh4HfL3/avatar.png" height="80" alt="me" />
-</div>
-
 ###
