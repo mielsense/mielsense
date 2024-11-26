@@ -15,7 +15,6 @@
 <div align="center">
   <img src="https://wakatime.com/badge/user/f78d919e-16a0-4812-b9e1-f190eb840c5f.svg"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=honeycallme.honeycallme"  />
-  <p><a href="https://mathis.website">my work 📺</a></p>
 </div>
 
 ###
@@ -30,10 +29,7 @@
 
 ###
 
-<p align="center">I'm a third year student at @Epitech in Lyon !<br><br>- 🫖 I’m currently working on <a href="https://github.com/villeurbanne/kettle">Kettle 🐈</a>
- <br>- 📚 I'm currently learning Rust<br>- 📻 In my free time I listen to music</p>
-
-###
+<p align="center">I'm a third year student at @Epitech in Lyon !</p>
 
 <p align="center">Fluent in french and english.</p>
 <br>
@@ -44,8 +40,7 @@
 
 ###
 
-<p align="center">I also work as a web application <a href="https://mathis.website">freelance ✉️</a><br><br>
- <br>- For the front-end my prefered frameworks are SvelteKit and Nuxt<br>- And for the back-end i mainly use Pocketbase/Supabase or Firebase</p>
+<p align="center">I also work as a <a href="https://mathis.website">freelance ✉️</a></p>
 
 <br>
 
