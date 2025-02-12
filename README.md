@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" alt="animated-profile-gif">
-</p>
-<p align="center">
-  (hello there :p)
-</p>
+hello,<br>
+i'm a french computer science student @epitech 🎓<br>
+i also work as a freelance web developper, you can check my works [here](https://miel/my) !
+
+```
+          |\      _,,,---,,_
+    ZZZzz /,`.-'``'    -.  ;-;;,_
+         |,4-  ) )-,_. ,\ (  `'-'
+        '---''(_/--'  `-'\_)  miel
+```
