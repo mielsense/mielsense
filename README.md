@@ -7,7 +7,7 @@ btw checkout [sensel](https://github.com/mielsense/sensel) 🌼
 
 --
 
-contact@miel.my<br>
+mielsense@proton.me<br>
 :p
 
 <br>
